@@ -16,6 +16,7 @@ class Solution:
         else:
             return '0'  # If it is '0', return '0'
 
+
 # Example usage:
 solution = Solution()
 print(solution.largestNumber([10, 2]))  # Output: "210"
