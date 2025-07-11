@@ -1,30 +1,18 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        is_negative = x < 0
+        INT_MIN, INT_MAX = -2**31, 2**31 - 1
+        result = 0
+        sign = -1 if x < 0 else 1
         x = abs(x)
-        reversed_num = 0
         
         while x != 0:
             digit = x % 10
-            reversed_num = reversed_num * 10 + digit
-            x = x // 10
-        
-        if is_negative:
-            reversed_num = -reversed_num
-        
-        if reversed_num < -2**31 or reversed_num > 2**31 - 1:
-            return 0
-        
-        return reversed_num
+            x //= 10
 
-# Example usage:
-solution = Solution()
+            # Check for overflow before it happens
+            if result > (INT_MAX - digit) // 10:
+                return 0
 
-x1 = 123
-print(solution.reverse(x1))  # Output: 321
+            result = result * 10 + digit
 
-x2 = -123
-print(solution.reverse(x2))  # Output: -321
-
-x3 = 120
-print(solution.reverse(x3))  # Output: 21    
+        return sign * result
