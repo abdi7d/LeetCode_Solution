@@ -19,3 +19,6 @@ class Solution:
             left += 1
             right -= 1
         return True
+
+# Time complexity: O(n)
+# Space complexity: O(1)
