@@ -9,3 +9,6 @@ class Solution:
                 # Swap current non-zero with last_non_zero
                 nums[last_non_zero], nums[i] = nums[i], nums[last_non_zero]
                 last_non_zero += 1
+# Time Complexity: O(n)
+    
+# Space Complexity: O(1) → in-place, no extra list used
