@@ -1,5 +1,5 @@
 class Solution:
-    def moveZeroes(self, nums: List[int]) -> None:
+    def moveZeroes(self, nums: list[int]) -> None:
         # First pointer: Pointer to place the next non-zero element(position to place the next non-zero element)
         last_non_zero = 0
 
