@@ -12,3 +12,10 @@ class Solution:
                 else:
                     right = mid - 1
             return -1
+"""
+Binary Search
+   - Time complexity: O(log n)
+
+   - Space complexity: O(1)
+
+"""
