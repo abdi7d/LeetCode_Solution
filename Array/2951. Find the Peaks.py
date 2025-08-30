@@ -14,3 +14,9 @@ class Solution:
                 if  (mountain[prev] < mountain[i]) and (mountain[next] < mountain[i]):
                     result.append(i)
         return result
+
+'''
+Time and Space Complexity
+
+
+'''
