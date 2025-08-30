@@ -1,5 +1,5 @@
 class Solution:
-    def findPeaks(self, mountain: List[int]) -> List[int]:
+    def findPeaks(self, mountain: list[int]) -> list[int]:
 
         result = []
         first_element =0
