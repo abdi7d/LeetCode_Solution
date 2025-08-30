@@ -18,5 +18,7 @@ class Solution:
 '''
 Time and Space Complexity
 
+  - Time : O(n)
+  - Space: O(n)
 
 '''
