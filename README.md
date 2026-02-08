@@ -35,6 +35,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
+| [1143-longest-common-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 ## Bit Manipulation
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
