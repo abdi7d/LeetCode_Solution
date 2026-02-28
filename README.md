@@ -12,6 +12,7 @@
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdi7d/LeetCode_Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdi7d/LeetCode_Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
@@ -119,4 +120,12 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/abdi7d/LeetCode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
