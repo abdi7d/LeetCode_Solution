@@ -40,6 +40,7 @@
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abdi7d/LeetCode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
