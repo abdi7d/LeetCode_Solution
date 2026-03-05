@@ -17,12 +17,14 @@
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abdi7d/LeetCode_Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/abdi7d/LeetCode_Solution/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abdi7d/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abdi7d/LeetCode_Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abdi7d/LeetCode_Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/abdi7d/LeetCode_Solution/tree/master/2542-maximum-subsequence-score) |
 ## Backtracking
 |  |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/abdi7d/LeetCode_Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Counting
 |  |
 | ------- |
