@@ -166,10 +166,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
@@ -187,4 +189,12 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/abdi7d/LeetCode_Solution/tree/master/0649-dota2-senate) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
