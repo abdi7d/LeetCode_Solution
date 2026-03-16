@@ -195,16 +195,19 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
