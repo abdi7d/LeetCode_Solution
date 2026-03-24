@@ -102,6 +102,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdi7d/LeetCode_Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/abdi7d/LeetCode_Solution/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0841-keys-and-rooms](https://github.com/abdi7d/LeetCode_Solution/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/abdi7d/LeetCode_Solution/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -217,6 +219,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/abdi7d/LeetCode_Solution/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -228,6 +231,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/abdi7d/LeetCode_Solution/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
