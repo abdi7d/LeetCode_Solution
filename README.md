@@ -18,6 +18,7 @@
 | [0875-koko-eating-bananas](https://github.com/abdi7d/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/abdi7d/LeetCode_Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abdi7d/LeetCode_Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/abdi7d/LeetCode_Solution/tree/master/2542-maximum-subsequence-score) |
@@ -136,6 +137,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/abdi7d/LeetCode_Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -191,6 +193,7 @@
 | [0841-keys-and-rooms](https://github.com/abdi7d/LeetCode_Solution/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/abdi7d/LeetCode_Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
