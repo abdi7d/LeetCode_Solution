@@ -116,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abdi7d/LeetCode_Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/abdi7d/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 ## Heap (Priority Queue)
@@ -247,4 +248,8 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abdi7d/LeetCode_Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
