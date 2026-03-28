@@ -190,6 +190,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdi7d/LeetCode_Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0994-rotting-oranges](https://github.com/abdi7d/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdi7d/LeetCode_Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abdi7d/LeetCode_Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
@@ -213,6 +215,7 @@
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/abdi7d/LeetCode_Solution/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/abdi7d/LeetCode_Solution/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdi7d/LeetCode_Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Shortest Path
 |  |
 | ------- |
