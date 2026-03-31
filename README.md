@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0216-combination-sum-iii) |
+| [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdi7d/LeetCode_Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdi7d/LeetCode_Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abdi7d/LeetCode_Solution/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
