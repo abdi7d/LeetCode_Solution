@@ -10,12 +10,12 @@
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/abdi7d/LeetCode_Solution/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
-| [0380-insert-delete-getrandom-o1](https://github.com/abdi7d/LeetCode_Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdi7d/LeetCode_Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -58,7 +58,6 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
-| [0380-insert-delete-getrandom-o1](https://github.com/abdi7d/LeetCode_Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abdi7d/LeetCode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
@@ -93,7 +92,6 @@
 | [0002-add-two-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/abdi7d/LeetCode_Solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
-| [0380-insert-delete-getrandom-o1](https://github.com/abdi7d/LeetCode_Solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -102,7 +100,6 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
-| [0380-insert-delete-getrandom-o1](https://github.com/abdi7d/LeetCode_Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
@@ -129,6 +126,7 @@
 | [0045-jump-game-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/abdi7d/LeetCode_Solution/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdi7d/LeetCode_Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/abdi7d/LeetCode_Solution/tree/master/0649-dota2-senate) |
@@ -281,8 +279,4 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
-## Randomized
-|  |
-| ------- |
-| [0380-insert-delete-getrandom-o1](https://github.com/abdi7d/LeetCode_Solution/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
