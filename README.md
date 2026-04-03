@@ -59,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abdi7d/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
@@ -69,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abdi7d/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/abdi7d/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/abdi7d/LeetCode_Solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 ## Recursion
