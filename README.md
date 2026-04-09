@@ -66,6 +66,7 @@
 | [0013-roman-to-integer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abdi7d/LeetCode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
@@ -84,6 +85,7 @@
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/abdi7d/LeetCode_Solution/tree/master/0649-dota2-senate) |
@@ -191,6 +193,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abdi7d/LeetCode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
 |  |
