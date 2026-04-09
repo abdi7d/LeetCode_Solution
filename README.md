@@ -65,6 +65,7 @@
 | [0012-integer-to-roman](https://github.com/abdi7d/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
@@ -84,6 +85,7 @@
 | [0058-length-of-last-word](https://github.com/abdi7d/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
