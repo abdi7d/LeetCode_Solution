@@ -51,6 +51,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
@@ -67,6 +68,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abdi7d/LeetCode_Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
@@ -88,6 +90,7 @@
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abdi7d/LeetCode_Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
