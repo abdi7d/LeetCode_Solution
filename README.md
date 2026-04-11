@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/abdi7d/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
@@ -66,6 +68,7 @@
 | [0012-integer-to-roman](https://github.com/abdi7d/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
@@ -85,6 +88,7 @@
 | [0014-longest-common-prefix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdi7d/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abdi7d/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
