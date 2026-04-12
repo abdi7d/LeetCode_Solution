@@ -14,6 +14,7 @@
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abdi7d/LeetCode_Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/abdi7d/LeetCode_Solution/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -262,6 +264,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/abdi7d/LeetCode_Solution/tree/master/0547-number-of-provinces) |
 ## Graph Theory
