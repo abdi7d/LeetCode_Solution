@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
@@ -203,12 +204,14 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/abdi7d/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/abdi7d/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abdi7d/LeetCode_Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/abdi7d/LeetCode_Solution/tree/master/2462-total-cost-to-hire-k-workers) |
