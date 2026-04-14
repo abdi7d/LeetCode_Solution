@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
@@ -76,6 +77,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/abdi7d/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -205,6 +207,7 @@
 | [0036-valid-sudoku](https://github.com/abdi7d/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/abdi7d/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abdi7d/LeetCode_Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/2352-equal-row-and-column-pairs) |
