@@ -143,6 +143,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
