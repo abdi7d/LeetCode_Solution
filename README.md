@@ -107,6 +107,7 @@
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abdi7d/LeetCode_Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
@@ -136,10 +137,12 @@
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abdi7d/LeetCode_Solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
