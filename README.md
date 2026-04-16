@@ -22,6 +22,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abdi7d/LeetCode_Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/abdi7d/LeetCode_Solution/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -136,6 +137,7 @@
 | [0013-roman-to-integer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abdi7d/LeetCode_Solution/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 ## Recursion
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
