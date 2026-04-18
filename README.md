@@ -83,6 +83,7 @@
 | [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
