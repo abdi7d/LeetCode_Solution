@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/abdi7d/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/abdi7d/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 ## Design
 |  |
