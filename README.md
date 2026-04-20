@@ -86,6 +86,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abdi7d/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -135,6 +136,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abdi7d/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -158,6 +160,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abdi7d/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
@@ -365,4 +368,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abdi7d/LeetCode_Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
