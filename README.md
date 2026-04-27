@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
@@ -260,6 +261,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -353,6 +355,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0437-path-sum-iii) |
@@ -374,6 +377,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0437-path-sum-iii) |
@@ -386,6 +390,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
@@ -404,4 +409,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
