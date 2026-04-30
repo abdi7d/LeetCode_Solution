@@ -131,6 +131,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
@@ -209,6 +210,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/abdi7d/LeetCode_Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/abdi7d/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
@@ -357,6 +359,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
@@ -379,6 +382,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
