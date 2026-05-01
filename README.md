@@ -297,6 +297,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0437-path-sum-iii) |
@@ -368,6 +369,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
@@ -395,6 +397,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abdi7d/LeetCode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
@@ -409,6 +412,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
