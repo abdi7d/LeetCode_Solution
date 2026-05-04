@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/abdi7d/LeetCode_Solution/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/abdi7d/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
@@ -191,6 +192,7 @@
 | [0045-jump-game-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abdi7d/LeetCode_Solution/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/abdi7d/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/abdi7d/LeetCode_Solution/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0120-triangle) |
@@ -246,6 +248,7 @@
 | [0036-valid-sudoku](https://github.com/abdi7d/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/abdi7d/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abdi7d/LeetCode_Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdi7d/LeetCode_Solution/tree/master/0200-number-of-islands) |
