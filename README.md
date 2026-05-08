@@ -130,6 +130,7 @@
 | [0127-word-ladder](https://github.com/abdi7d/LeetCode_Solution/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abdi7d/LeetCode_Solution/tree/master/0290-word-pattern) |
@@ -185,12 +186,14 @@
 | [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 ## Dynamic Programming
 |  |
@@ -326,6 +329,7 @@
 | [0200-number-of-islands](https://github.com/abdi7d/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abdi7d/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abdi7d/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
