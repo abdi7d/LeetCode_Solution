@@ -33,6 +33,7 @@
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abdi7d/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -131,6 +132,7 @@
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abdi7d/LeetCode_Solution/tree/master/0290-word-pattern) |
@@ -194,6 +196,7 @@
 | [0014-longest-common-prefix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0212-word-search-ii) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 ## Dynamic Programming
 |  |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0212-word-search-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
@@ -264,6 +268,7 @@
 | [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abdi7d/LeetCode_Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdi7d/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/abdi7d/LeetCode_Solution/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/abdi7d/LeetCode_Solution/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/abdi7d/LeetCode_Solution/tree/master/0994-rotting-oranges) |
