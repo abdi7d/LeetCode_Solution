@@ -42,6 +42,7 @@
 | [0228-summary-ranges](https://github.com/abdi7d/LeetCode_Solution/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/abdi7d/LeetCode_Solution/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdi7d/LeetCode_Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -215,6 +216,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdi7d/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdi7d/LeetCode_Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/abdi7d/LeetCode_Solution/tree/master/0790-domino-and-tromino-tiling) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abdi7d/LeetCode_Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/abdi7d/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
