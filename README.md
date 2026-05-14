@@ -30,6 +30,7 @@
 | [0130-surrounded-regions](https://github.com/abdi7d/LeetCode_Solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/abdi7d/LeetCode_Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/abdi7d/LeetCode_Solution/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdi7d/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/abdi7d/LeetCode_Solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -133,6 +135,7 @@
 | [0072-edit-distance](https://github.com/abdi7d/LeetCode_Solution/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/abdi7d/LeetCode_Solution/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/abdi7d/LeetCode_Solution/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -198,6 +201,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0212-word-search-ii) |
@@ -215,6 +219,7 @@
 | [0097-interleaving-string](https://github.com/abdi7d/LeetCode_Solution/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdi7d/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -507,4 +512,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/abdi7d/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
