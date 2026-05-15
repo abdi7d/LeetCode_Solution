@@ -183,6 +183,7 @@
 | [0012-integer-to-roman](https://github.com/abdi7d/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/abdi7d/LeetCode_Solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abdi7d/LeetCode_Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdi7d/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abdi7d/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/abdi7d/LeetCode_Solution/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
 ## Design
 |  |
