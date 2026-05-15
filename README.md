@@ -33,6 +33,7 @@
 | [0134-gas-station](https://github.com/abdi7d/LeetCode_Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/abdi7d/LeetCode_Solution/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/abdi7d/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdi7d/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/abdi7d/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/abdi7d/LeetCode_Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -186,6 +188,7 @@
 | [0050-powx-n](https://github.com/abdi7d/LeetCode_Solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abdi7d/LeetCode_Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/abdi7d/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
@@ -534,4 +537,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/abdi7d/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/abdi7d/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
