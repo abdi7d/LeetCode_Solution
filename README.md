@@ -75,6 +75,7 @@
 | [0086-partition-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
@@ -177,6 +179,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/abdi7d/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -345,6 +348,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0427-construct-quad-tree) |
 ## Quickselect
@@ -552,4 +556,5 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abdi7d/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
