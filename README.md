@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abdi7d/LeetCode_Solution/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abdi7d/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/abdi7d/LeetCode_Solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
@@ -266,6 +267,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abdi7d/LeetCode_Solution/tree/master/0374-guess-number-higher-or-lower) |
