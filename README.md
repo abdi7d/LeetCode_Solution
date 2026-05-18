@@ -57,6 +57,7 @@
 | [0739-daily-temperatures](https://github.com/abdi7d/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/abdi7d/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/abdi7d/LeetCode_Solution/tree/master/0909-snakes-and-ladders) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/abdi7d/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
@@ -246,6 +247,7 @@
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdi7d/LeetCode_Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/abdi7d/LeetCode_Solution/tree/master/0790-domino-and-tromino-tiling) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Greedy
@@ -354,6 +356,7 @@
 | [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
 | ------- |
@@ -450,6 +453,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/abdi7d/LeetCode_Solution/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -560,4 +564,8 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abdi7d/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
