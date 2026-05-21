@@ -52,6 +52,7 @@
 | [0289-game-of-life](https://github.com/abdi7d/LeetCode_Solution/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abdi7d/LeetCode_Solution/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/abdi7d/LeetCode_Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
@@ -286,6 +287,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abdi7d/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/abdi7d/LeetCode_Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/abdi7d/LeetCode_Solution/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
