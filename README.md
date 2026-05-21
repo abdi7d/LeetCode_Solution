@@ -84,6 +84,7 @@
 | [0141-linked-list-cycle](https://github.com/abdi7d/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/abdi7d/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abdi7d/LeetCode_Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -97,6 +98,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abdi7d/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/abdi7d/LeetCode_Solution/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/abdi7d/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdi7d/LeetCode_Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -219,6 +221,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdi7d/LeetCode_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/abdi7d/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
@@ -287,6 +290,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abdi7d/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/abdi7d/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/abdi7d/LeetCode_Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/abdi7d/LeetCode_Solution/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
@@ -581,4 +585,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/abdi7d/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
