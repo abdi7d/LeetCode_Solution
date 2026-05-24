@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/abdi7d/LeetCode_Solution/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abdi7d/LeetCode_Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
@@ -375,6 +376,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/abdi7d/LeetCode_Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
