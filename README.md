@@ -599,4 +599,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abdi7d/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/abdi7d/LeetCode_Solution/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
