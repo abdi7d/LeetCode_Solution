@@ -605,4 +605,5 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/abdi7d/LeetCode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1280-students-and-examinations](https://github.com/abdi7d/LeetCode_Solution/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/abdi7d/LeetCode_Solution/tree/master/1661-average-time-of-process-per-machine) |
+| [1934-confirmation-rate](https://github.com/abdi7d/LeetCode_Solution/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
