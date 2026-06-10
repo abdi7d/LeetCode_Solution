@@ -609,6 +609,7 @@
 | [0610-triangle-judgement](https://github.com/abdi7d/LeetCode_Solution/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/abdi7d/LeetCode_Solution/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/abdi7d/LeetCode_Solution/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/abdi7d/LeetCode_Solution/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/abdi7d/LeetCode_Solution/tree/master/1164-product-price-at-a-given-date) |
@@ -617,7 +618,6 @@
 | [1211-queries-quality-and-percentage](https://github.com/abdi7d/LeetCode_Solution/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/abdi7d/LeetCode_Solution/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/abdi7d/LeetCode_Solution/tree/master/1280-students-and-examinations) |
-| [1341-movie-rating](https://github.com/abdi7d/LeetCode_Solution/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/abdi7d/LeetCode_Solution/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/abdi7d/LeetCode_Solution/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/abdi7d/LeetCode_Solution/tree/master/1729-find-followers-count) |
