@@ -622,6 +622,7 @@
 | [1280-students-and-examinations](https://github.com/abdi7d/LeetCode_Solution/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/abdi7d/LeetCode_Solution/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/abdi7d/LeetCode_Solution/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/abdi7d/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/abdi7d/LeetCode_Solution/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/abdi7d/LeetCode_Solution/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/abdi7d/LeetCode_Solution/tree/master/1789-primary-department-for-each-employee) |
