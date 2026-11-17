@@ -17,6 +17,7 @@
 | [0046-permutations](https://github.com/abdi7d/LeetCode_Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/abdi7d/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/abdi7d/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abdi7d/LeetCode_Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abdi7d/LeetCode_Solution/tree/master/0055-jump-game) |
@@ -312,6 +313,7 @@
 | [0022-generate-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abdi7d/LeetCode_Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abdi7d/LeetCode_Solution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/abdi7d/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/abdi7d/LeetCode_Solution/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/abdi7d/LeetCode_Solution/tree/master/0079-word-search) |
@@ -630,4 +632,8 @@
 | [1934-confirmation-rate](https://github.com/abdi7d/LeetCode_Solution/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/abdi7d/LeetCode_Solution/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/abdi7d/LeetCode_Solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abdi7d/LeetCode_Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
