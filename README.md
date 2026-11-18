@@ -26,6 +26,7 @@
 | [0064-minimum-path-sum](https://github.com/abdi7d/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/abdi7d/LeetCode_Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abdi7d/LeetCode_Solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -177,6 +178,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abdi7d/LeetCode_Solution/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/abdi7d/LeetCode_Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abdi7d/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
@@ -316,6 +318,7 @@
 | [0051-n-queens](https://github.com/abdi7d/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/abdi7d/LeetCode_Solution/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/abdi7d/LeetCode_Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abdi7d/LeetCode_Solution/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0216-combination-sum-iii) |
