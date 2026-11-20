@@ -365,6 +365,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abdi7d/LeetCode_Solution/tree/master/0155-min-stack) |
@@ -404,6 +405,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abdi7d/LeetCode_Solution/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0101-symmetric-tree) |
@@ -492,6 +494,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0101-symmetric-tree) |
@@ -523,6 +526,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0101-symmetric-tree) |
