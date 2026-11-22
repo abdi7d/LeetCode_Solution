@@ -153,6 +153,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdi7d/LeetCode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdi7d/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abdi7d/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abdi7d/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/abdi7d/LeetCode_Solution/tree/master/0068-text-justification) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0053-maximum-subarray) |
@@ -366,6 +368,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abdi7d/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abdi7d/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -655,4 +658,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abdi7d/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
