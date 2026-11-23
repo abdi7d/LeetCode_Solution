@@ -43,6 +43,7 @@
 | [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/abdi7d/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdi7d/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -267,6 +268,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/abdi7d/LeetCode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abdi7d/LeetCode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdi7d/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/abdi7d/LeetCode_Solution/tree/master/0279-perfect-squares) |
