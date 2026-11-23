@@ -221,6 +221,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/abdi7d/LeetCode_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/abdi7d/LeetCode_Solution/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/abdi7d/LeetCode_Solution/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0139-word-break](https://github.com/abdi7d/LeetCode_Solution/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdi7d/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abdi7d/LeetCode_Solution/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/abdi7d/LeetCode_Solution/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abdi7d/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/abdi7d/LeetCode_Solution/tree/master/0435-non-overlapping-intervals) |
@@ -457,6 +459,7 @@
 | [0200-number-of-islands](https://github.com/abdi7d/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abdi7d/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdi7d/LeetCode_Solution/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/abdi7d/LeetCode_Solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abdi7d/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0433-minimum-genetic-mutation) |
@@ -662,4 +665,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abdi7d/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/abdi7d/LeetCode_Solution/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/abdi7d/LeetCode_Solution/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
