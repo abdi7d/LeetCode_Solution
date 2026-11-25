@@ -93,6 +93,7 @@
 | [0148-sort-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/abdi7d/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/abdi7d/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/abdi7d/LeetCode_Solution/tree/master/0763-partition-labels) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdi7d/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abdi7d/LeetCode_Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -141,6 +142,7 @@
 | [0383-ransom-note](https://github.com/abdi7d/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abdi7d/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0433-minimum-genetic-mutation) |
+| [0763-partition-labels](https://github.com/abdi7d/LeetCode_Solution/tree/master/0763-partition-labels) |
 | [1207-unique-number-of-occurrences](https://github.com/abdi7d/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abdi7d/LeetCode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abdi7d/LeetCode_Solution/tree/master/2336-smallest-number-in-infinite-set) |
@@ -177,6 +179,7 @@
 | [0399-evaluate-division](https://github.com/abdi7d/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/abdi7d/LeetCode_Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/abdi7d/LeetCode_Solution/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/abdi7d/LeetCode_Solution/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/abdi7d/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/abdi7d/LeetCode_Solution/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abdi7d/LeetCode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
@@ -295,6 +298,7 @@
 | [0502-ipo](https://github.com/abdi7d/LeetCode_Solution/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/abdi7d/LeetCode_Solution/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdi7d/LeetCode_Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/abdi7d/LeetCode_Solution/tree/master/0763-partition-labels) |
 | [2542-maximum-subsequence-score](https://github.com/abdi7d/LeetCode_Solution/tree/master/2542-maximum-subsequence-score) |
 ## Binary Search
 |  |
